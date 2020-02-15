@@ -78,7 +78,7 @@
                 "RepoLink":"https://github.com/fengdu78/machine_learning_beginner"
             },
             {
-                "Title":"Homemade Machine Learning - Python examples of popular machine learning algorithms ",
+                "Title":"Homemade Machine Learning",
                 "RepoLink":"https://github.com/trekhleb/homemade-machine-learning"
             },
             {
@@ -136,7 +136,7 @@
         "Category":"Natural Language Processing",
         "Repos":[
             {
-                "Title":"A Code-First Intro to Natural Language Processing,  University of San Francisco (fast.ai)",
+                "Title":"A Code-First Intro to Natural Language Processing, USF (fast.ai)",
                 "RepoLink":"https://github.com/fastai/course-nlp"
             }
         ]
