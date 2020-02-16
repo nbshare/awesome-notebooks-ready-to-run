@@ -111,8 +111,16 @@
                 "RepoLink":"https://github.com/d2l-ai/d2l-en"
             },
             {
+                "Title":"Dive into Deep Learning, adapting the code from MXNet into PyTorch",
+                "RepoLink":"https://github.com/dsgiitr/d2l-pytorch"
+            },
+            {
                 "Title":"动手学深度学习",
                 "RepoLink":"https://github.com/d2l-ai/d2l-zh"
+            },
+            {
+                "Title":"动手学深度学习 (Pytorch版实现)",
+                "RepoLink":"https://github.com/ShusenTang/Dive-into-DL-PyTorch"
             },
             {
                 "Title":"Deep Learning Nanodegree Foundations program, Udacity",
